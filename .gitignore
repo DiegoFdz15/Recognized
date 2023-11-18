@@ -1,0 +1,13 @@
+modules/__pycache__
+server/__pycache__
+modules/modeloEigenFace.xml
+tests
+tests/reconocimiento/__pycache__
+tests/reconocimiento/modeloEigenFace.xml
+tests/reconocimiento/ImagenesYvideosPrueba
+Data/
+modules/modelos/modeloEigenFace.xml
+.venv
+logs/*
+csv_data
+Dist/
