@@ -2,7 +2,7 @@
 
 # RECOGNIZED 2023
 
-### 🔥 Reconocimiento facial - BTI B - Area 1
+### 🔥 Reconocimiento facial - Tesis Bachiller
 
 ***¿Qué es Recognized?***
 
